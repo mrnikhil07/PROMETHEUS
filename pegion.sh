@@ -1,4 +1,4 @@
-install prometheus grafana and nodeexporter below is the script:
+#install prometheus grafana and nodeexporter below is the script:
 ===========================================================================================
 
 #prometheus
